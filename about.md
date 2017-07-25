@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Recent graduate that studied BSc. In Computing with Knowledge of programming, Operating systems, software Engineering and Games Development
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[cpholmeswork@gmail.com](mailto:cpholmeswork@gmail.com)
