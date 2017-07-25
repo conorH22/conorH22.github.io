@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 ## CV
- [MY CV]({{ site.url }}/pdf/Conor Holmes_CV.pdf)
+you can [CV]({{ site.url }}/pdf/Conor Holmes_CV.pdf) directly
 ### Contact me
 
 [cpholmeswork@gmail.com](mailto:cpholmeswork@gmail.com)
