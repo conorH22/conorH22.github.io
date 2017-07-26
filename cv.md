@@ -1,6 +1,6 @@
 ---
-layout: Resume
-title: Cv
+layout: page
+title:  MY Cv
 permalink: /cv/
 ---
 #Conor Holmes CV
