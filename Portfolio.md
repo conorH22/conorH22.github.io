@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  My projects
-permalink: /cv/
+permalink: /portfolio/
 ---
 Please find links to Github account, project code repositories and videos.
 
