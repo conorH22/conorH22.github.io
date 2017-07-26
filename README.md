@@ -1,4 +1,4 @@
-#conorh22.github.io
+## conorh22.github.io
 this repo contains files for  personal website using the Jekyll Now theme.
 
 ## Jekyll Now
