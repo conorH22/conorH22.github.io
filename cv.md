@@ -53,7 +53,7 @@ Advanced OO Programming, Systems Analysis and Design, Computing Architecture, Da
 Systems, Software Security, Enterprise App Development, Data Structures, Concurrent
 Programming, Network Programming.
 
-**2007 – 2012 | ​St. Mary’s Secondary School, Newport​ | Leaving Certificate**
+#### 2007 – 2012 | St. Mary’s Secondary School, Newport | Leaving Certificate
 
 ## Skills and Certification
 
