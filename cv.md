@@ -6,9 +6,13 @@ permalink: /cv/
 # Conor Holmes
 Newport,
 Tipperary, Ireland
+
 +353 86 2096128
+
 [My Email](cpholmeswork@gmail.com).
+
 [Github Account](https://github.com/conorH22).
+
 you can download My[CV]({{ site.url }}/pdf/Conor Holmes_CV.pdf) Here as PDF.
 
 ## Employment
