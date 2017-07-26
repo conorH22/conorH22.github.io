@@ -3,8 +3,8 @@ layout: page
 title:  MY Cv
 permalink: /cv/
 ---
-#Conor Holmes CV
-##Employment
+# Conor Holmes CV
+## Employment
 
 May 2016 - September 2016 | Johnny Walsh Floor Coverings| | Web Developer
 ● Worked as Web developer for Johnny Walsh Floor Coverings Ltd.
@@ -14,14 +14,14 @@ May 2016 - September 2016 | Johnny Walsh Floor Coverings| | Web Developer
 hosting service.
 [Website link](http://johnnywalshfloorcoverings.ie/).
 
-##Education
+## Education
 **Limerick Institution of Technology | 2012 – 2017 | B.Sc. (Hons.) in Computing | 2.1**
 Successfully completed a B.Sc. (Hons). in Computing achieving a Second-Class honours degree.
 The course had a focus on games design and development which allowed me to follow my
 passion in this area whist also building technical skills highly relevant in commercial and
 enterprise applications. This course allowed me to significantly develop my technical skills
 whilst also improving my teamwork and leadership skills through many team based projects.
-###PROJECTS
+### PROJECTS
 ● Fourth year project: developed a Real Time Weather system application in Cocos2d-x(C++)
 and Unity3D(C#), using Json data parsed from Wunderground Api.
 ● Third year group project: developed a tower defence game (C++) using tools Visual
@@ -31,13 +31,13 @@ Java) for Pc and android, publishing the application on google play store (andro
 keytool).
 ● Computing modern culture: developed cross platform Application in Unity (C#) with Fungus
 (Clonmel junction festival 2017)
-###Relevant subjects include:
+### Relevant subjects include:
 Advanced OO Programming, Systems Analysis and Design, Computing Architecture, Database
 Systems, Software Security, Enterprise App Development, Data Structures, Concurrent
 Programming, Network Programming.
 **2007 – 2012 | St. Mary’s Secondary School, Newport | Leaving Certificate**
 
-##Skills and Certification
+## Skills and Certification
 ● Development experience in C++, C# and Java.
 ● Experienced with Unity/Unreal 4/cocos2d-x
 ● Experienced with Google Analytics.
@@ -47,7 +47,7 @@ college based projects.
 ● A large amount of team based project work in my employment together with college
 projects.
 ____________________________________________________________________
-##Interests and Achievements
+## Interests and Achievements
 ● Participant of various game jams and hackathons.
 ● Active member of LIT Tipperary's Technology and Computer and Video Game Society.
 ● Event volunteer at Games Fleadh 2013-2017.
