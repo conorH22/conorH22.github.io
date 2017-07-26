@@ -26,15 +26,14 @@ Developed with cocos2d-x (c++). cross platform game on windows desktop and
 Android. The Game is inspired by Star wars. Multi level space race game. Destroy
 multiple type of enemies. Worked with android Sdks
 
-code: [game code](https://github.com/conorH22/AttackOfOzones).
-Google play store listing:
-[game listing]( https://play.google.com/store/apps/details?id=com.conorH22.AttackOfOzonesv2&amp;hl
+code: https://github.com/conorH22/AttackOfOzones.
+Google play store listing: https://play.google.com/store/apps/details?id=com.conorH22.AttackOfOzonesv2&amp;hl
 
-=en).
+=en
 
 
 Gameplay video:
-[video]( https://youtu.be/Djm9nXD8jtU).
+https://youtu.be/Djm9nXD8jtU
 
 
 ## The Lost sheep - 3D cross platform adventure game (c#) 
