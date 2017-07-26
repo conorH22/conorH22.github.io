@@ -6,11 +6,11 @@ permalink: /cv/
 # Conor Holmes CV
 ## Employment
 
-May 2016 - September 2016 | Johnny Walsh Floor Coverings| | Web Developer
-● Worked as Web developer for Johnny Walsh Floor Coverings Ltd.
-● Developed a company website to promote the company brand on the web.
-● Developed technical and soft Skills (JavaScript, PHP, Html and CSS).
-● Dealing with the Client with weekly meetings and communication between the web
+**May 2016 - September 2016 | Johnny Walsh Floor Coverings| | Web Developer**
+- Worked as Web developer for Johnny Walsh Floor Coverings Ltd.
+- Developed a company website to promote the company brand on the web.
+- Developed technical and soft Skills (JavaScript, PHP, Html and CSS).
+- Dealing with the Client with weekly meetings and communication between the web
 hosting service.
 [Website link](http://johnnywalshfloorcoverings.ie/).
 
@@ -22,14 +22,14 @@ passion in this area whist also building technical skills highly relevant in com
 enterprise applications. This course allowed me to significantly develop my technical skills
 whilst also improving my teamwork and leadership skills through many team based projects.
 ### PROJECTS
-● Fourth year project: developed a Real Time Weather system application in Cocos2d-x(C++)
+- Fourth year project: developed a Real Time Weather system application in Cocos2d-x(C++)
 and Unity3D(C#), using Json data parsed from Wunderground Api.
-● Third year group project: developed a tower defence game (C++) using tools Visual
+- Third year group project: developed a tower defence game (C++) using tools Visual
 studio, Cocos2d X and MySQL.
-● Platform games development: developed cross platform application in Cocos2d-x (C++ and
+- Platform games development: developed cross platform application in Cocos2d-x (C++ and
 Java) for Pc and android, publishing the application on google play store (android SDKs,
 keytool).
-● Computing modern culture: developed cross platform Application in Unity (C#) with Fungus
+- Computing modern culture: developed cross platform Application in Unity (C#) with Fungus
 (Clonmel junction festival 2017)
 ### Relevant subjects include:
 Advanced OO Programming, Systems Analysis and Design, Computing Architecture, Database
@@ -38,22 +38,22 @@ Programming, Network Programming.
 **2007 – 2012 | St. Mary’s Secondary School, Newport | Leaving Certificate**
 
 ## Skills and Certification
-● Development experience in C++, C# and Java.
-● Experienced with Unity/Unreal 4/cocos2d-x
-● Experienced with Google Analytics.
-● Knowledge of android studio
-● Excellent communication and presentation skills developed through major work and
+- Development experience in C++, C# and Java.
+- Experienced with Unity/Unreal 4/cocos2d-x
+- Experienced with Google Analytics.
+- Knowledge of android studio
+- Excellent communication and presentation skills developed through major work and
 college based projects.
-● A large amount of team based project work in my employment together with college
+- A large amount of team based project work in my employment together with college
 projects.
-____________________________________________________________________
+
 ## Interests and Achievements
-● Participant of various game jams and hackathons.
-● Active member of LIT Tipperary's Technology and Computer and Video Game Society.
-● Event volunteer at Games Fleadh 2013-2017.
-● Learning about new software development and IT concepts.
-● Interested in Swimming.
-____________________________
+- Participant of various game jams and hackathons.
+- Active member of LIT Tipperary's Technology and Computer and Video Game Society.
+- Event volunteer at Games Fleadh 2013-2017.
+- Learning about new software development and IT concepts.
+- Interested in Swimming.
+
 
 
 you can my [CV]({{ site.url }}/pdf/Conor Holmes_CV.pdf).
