@@ -1,9 +1,16 @@
 ---
 layout: page
-title:  MY Cv
+title:  My Cv
 permalink: /cv/
 ---
-# Conor Holmes CV
+# Conor Holmes
+Newport,
+Tipperary, Ireland
++353 86 2096128
+[My Email](cpholmeswork@gmail.com).
+[Github Account](https://github.com/conorH22).
+you can download My[CV]({{ site.url }}/pdf/Conor Holmes_CV.pdf) Here as PDF.
+
 ## Employment
 
 **May 2016 - September 2016 | Johnny Walsh Floor Coverings| | Web Developer**
@@ -35,6 +42,7 @@ keytool).
 Advanced OO Programming, Systems Analysis and Design, Computing Architecture, Database
 Systems, Software Security, Enterprise App Development, Data Structures, Concurrent
 Programming, Network Programming.
+
 **2007 – 2012 | St. Mary’s Secondary School, Newport | Leaving Certificate**
 
 ## Skills and Certification
@@ -53,10 +61,6 @@ projects.
 - Event volunteer at Games Fleadh 2013-2017.
 - Learning about new software development and IT concepts.
 - Interested in Swimming.
-
-
-
-you can my [CV]({{ site.url }}/pdf/Conor Holmes_CV.pdf).
 
 
 ### Contact me
