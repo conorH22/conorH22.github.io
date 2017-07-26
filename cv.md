@@ -36,7 +36,7 @@ passion in this area whist also building technical skills highly relevant in com
 enterprise applications. This course allowed me to significantly develop my technical skills
 whilst also improving my teamwork and leadership skills through many team based projects.
 
-## PROJECTS
+## Projects
 
 - Fourth year project: developed a Real Time Weather system application in Cocos2d-x(C++)
 and Unity3D(C#), using Json data parsed from Wunderground Api.
