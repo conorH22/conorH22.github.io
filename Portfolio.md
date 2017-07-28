@@ -14,15 +14,15 @@ Google play developer account:
 
 ## Real time weather application
 
-Developed a real time weather application in 2D in cocos2d-x and 3D application in Unity.
+Developed a real time weather application in 2D in cocos2d-x and 3D application in Unity for my fourth year project.
 The purpose of the project was to parse weather data from wunderground api.
 The 2d application  uses cocos2d network httprequest to call wunderground api. RapidJson parses json data to string and the string searches for the weather effect type, depending on the time of day, a day/night relvant weather scene is rendered and the demo of Attack of ozones game demo can be played. 
 
 The 3d application  uses cocos2d network httprequest to call wunderground api. LitJson parse json data to string and the string searches for the weather effect type and the relvant weather scene is rendered and the demo of The Lost sheep game demo can be played.
 
-## Attack of Ozones 2D  cross platform Racing game
+## Attack of Ozones 
 
-Developed with cocos2d-x (c++). cross platform game on windows desktop and
+Developed with cocos2d-x (c++). 2D cross platform game on windows desktop and
 Android. The Game is inspired by Star wars. Multi level space race game. Destroy
 multiple type of enemies. Worked with android Sdks
 
@@ -35,9 +35,9 @@ Gameplay video:
 [![Link](https://img.youtube.com/vi/Djm9nXD8jtU/0.jpg)](https://youtu.be/Djm9nXD8jtU)
 
 
-## The Lost sheep - 3D cross platform adventure game 
+## The Lost sheep - 
 
- Cross platform game in unity(c#) which uses Fungus. The theme for Clonmel junction festival which is
+ 3D Cross platform adventure game in unity(c#) which uses Fungus. The theme for Clonmel junction festival which is
 sheep.The object of the game  is to find and collect five missing sheep within the time limit
 of five mins.
 
@@ -55,7 +55,7 @@ Game play video: 
 
  [![Link](https://img.youtube.com/vi/NbZIqZB2WwY/0.jpg)](https://youtu.be/NbZIqZB2WwY)
 
-## 2Fast2Unity-3D multi level racing game(c#)
+## 2Fast2Unity
 
 3D racing game with three levels with three unique locations settings. Game fleadh
 2017(all Ireland game developers competition ) theme was racing.The objective of
@@ -80,9 +80,7 @@ not by selecting Yes or No. Developed during Global games jam 2016
 
 Project Link: http://globalgamejam.org/2016/games/exire
 
-Google
-
-Drive: https://drive.google.com/drive/folders/0B_ZRvr3eu9HxeHBNVEFtQlhoeDg
+Google Drive: https://drive.google.com/drive/folders/0B_ZRvr3eu9HxeHBNVEFtQlhoeDg
 
 
 
