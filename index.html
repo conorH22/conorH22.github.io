@@ -1,15 +1,11 @@
 ---
 layout: default
 ---
-<div id="main" role="main" class="container">
-      <article class="page">
+<article class="page">
 
-  <h1>About</h1>
+  <h1>{{ page.title }}</h1>
 
   <div class="entry">
-    <p>Recent graduate that studied BSc. In Computing with Knowledge of programming, Operating systems, software Engineering and Games Development</p>
-
+    {{ content }}
   </div>
 </article>
-{% endfor %}
-</div>
