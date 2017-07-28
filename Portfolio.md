@@ -84,6 +84,7 @@ Project Link: [game info](http://globalgamejam.org/2016/games/exire)
 Google Drive:  [download game files](https://drive.google.com/drive/folders/0B_ZRvr3eu9HxeHBNVEFtQlhoeDg)
 
 Gameplay video:
+
 [![Link](https://img.youtube.com/vi/4vTgKr4L2tA/0.jpg)](https://youtu.be/4vTgKr4L2tA)
 
 
