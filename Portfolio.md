@@ -54,7 +54,7 @@ Release package: [release package link](https://github.com/conorH22/TheLostShee
 
 Game play video: 
 
- [![Link](https://img.youtube.com/vi/NbZIqZB2WwY.jpg)](https://youtu.be/NbZIqZB2WwY)
+ [![Link](https://img.youtube.com/vi/NbZIqZB2WwY/0.jpg)](https://youtu.be/NbZIqZB2WwY)
 
 ## 2Fast2Unity-3D multi level racing game(c#)
 
