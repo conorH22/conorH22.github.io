@@ -53,14 +53,13 @@ Code:
 Release package: [release package link](https://github.com/conorH22/TheLostSheep/releases).
 
 Game play video: 
- [link](https://youtu.be/NbZIqZB2WwY).
+
+ [![Link](https://img.youtube.com/vi/NbZIqZB2WwY.jpg)](https://youtu.be/NbZIqZB2WwY)
 
 ## 2Fast2Unity-3D multi level racing game(c#)
 
 3D racing game with three levels with three unique locations settings. Game fleadh
-
 2017(all Ireland game developers competition ) theme was racing.The objective of
-
 the game is to race against other drivers and finish first.  
 
 Code : https://github.com/conorH22/2Fast2Unity
@@ -76,11 +75,8 @@ Code : https://github.com/conorH22/The-gits- game-folder.
 ## Global-Games- Jam-2016- Exire (unreal 4)
 
 Exire is a Horror Game Developed in Unreal Engine 4. The aim of the game is to
-
 collect all the blood artifacts to release your brother from the demons grasp. You
-
 must then answer a question on the Ouija board. Did you collect all the Artifacts or
-
 not by selecting Yes or No.
 
 Project Link: http://globalgamejam.org/2016/games/exire
