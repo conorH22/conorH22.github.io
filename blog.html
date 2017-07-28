@@ -1,1 +1,15 @@
-test
+--
+layout: default
+permalink: /blog/
+---
+
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+    </article>
+  {% endfor %}
+</div>
