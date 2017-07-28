@@ -28,23 +28,22 @@ Developed with cocos2d-x (c++). 2D cross platform game on windows desktop and
 Android. The Game is inspired by Star wars. Multi level space race game. Destroy
 multiple type of enemies. Worked with android Sdks
 
-code:[ Code link](https://github.com/conorH22/AttackOfOzones).
-
-<a href='https://play.google.com/store/apps/details?id=com.conorH22.AttackOfOzonesv2&hl=en&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
-
-
+ Github code:[ Code link](https://github.com/conorH22/AttackOfOzones).
+ 
 Gameplay video:
 
 [![ Video Link](https://img.youtube.com/vi/Djm9nXD8jtU/0.jpg)](https://youtu.be/Djm9nXD8jtU)
 
 
+
+<a href='https://play.google.com/store/apps/details?id=com.conorH22.AttackOfOzonesv2&hl=en&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
+
+
 ## The Lost sheep - 
 
- 3D Cross platform adventure game in unity(c#) which uses Fungus. The theme for Clonmel junction festival which is
+3D Cross platform adventure game in unity(c#) which uses Fungus. The theme for Clonmel junction festival which is
 sheep.The object of the game  is to find and collect five missing sheep within the time limit
 of five mins.
-
-<a href='https://play.google.com/store/apps/details?id=com.Company.ConorHolmes&hl=en&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>  
 
 Code:
 [link](https://github.com/conorH22/TheLostSheep).
@@ -54,6 +53,8 @@ Release package: [release package link](https://github.com/conorH22/TheLostShee
 Game play video: 
 
  [![Link](https://img.youtube.com/vi/NbZIqZB2WwY/0.jpg)](https://youtu.be/NbZIqZB2WwY)
+ 
+ <a href='https://play.google.com/store/apps/details?id=com.Company.ConorHolmes&hl=en&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>  
 
 ## 2Fast2Unity
 
