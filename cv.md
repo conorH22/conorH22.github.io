@@ -17,7 +17,7 @@ you can download My[CV]({{ site.url }}/pdf/Conor Holmes_CV.pdf) Here as PDF.
 
 ## Employment
 
-**May 2016 - September 2016 | Johnny Walsh Floor Coverings| | Web Developer**
+** May 2016 - September 2016 | Johnny Walsh Floor Coverings| | Web Developer**
 
 - Worked as Web developer for Johnny Walsh Floor Coverings Ltd.
 - Developed a company website to promote the company brand on the web.
@@ -28,7 +28,7 @@ hosting service.
 [Website link](http://johnnywalshfloorcoverings.ie/).
 
 ## Education
-**Limerick Institution of Technology | 2012 – 2017 | B.Sc. (Hons.) in Computing | 2.1**
+** Limerick Institution of Technology | 2012 – 2017 | B.Sc. (Hons.) in Computing | 2.1 **
 
 Successfully completed a B.Sc. (Hons). in Computing achieving a Second-Class honours degree.
 The course had a focus on games design and development which allowed me to follow my
