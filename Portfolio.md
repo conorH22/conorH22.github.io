@@ -31,6 +31,8 @@ multiple type of enemies. Worked with android Sdks
 code:[ Code link](https://github.com/conorH22/AttackOfOzones).
 Google play store listing: [ Store link](https://play.google.com/store/apps/details?id=com.conorH22.AttackOfOzonesv2&amp;hl=en)
 
+<a href='https://play.google.com/store/apps/details?id=com.conorH22.AttackOfOzonesv2&hl=en&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
+
 
 Gameplay video:
 
