@@ -71,7 +71,7 @@ Release :[Release Package]( https://github.com/conorH22/2Fast2Unity/releases)
 ## Endless night
 Developed in a team of 4 for third year group project,  2D tower defense game called Endless night.The game was developed using cocos2d-x, visual studio, mySQL, scrum and c++. Sucessfully entered into game studio ireland at Games fleadh 2016
 Link:  [site info](http://gamesfleadh.ie/)
-Code :  [github code](https://github.com/conorH22/The-gits- game-folder).
+Code :  [github code](https://github.com/conorH22/The-gits-game-folder).
 
 ## Exire 
 
