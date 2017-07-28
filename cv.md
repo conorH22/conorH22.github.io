@@ -17,7 +17,7 @@ you can download My[CV]({{ site.url }}/pdf/Conor Holmes_CV.pdf) Here as PDF.
 
 ## Employment
 
-** May 2016 - September 2016 | Johnny Walsh Floor Coverings| | Web Developer**
+** May 2016 - September 2016 | Johnny Walsh Floor Coverings| | Web Developer **
 
 - Worked as Web developer for Johnny Walsh Floor Coverings Ltd.
 - Developed a company website to promote the company brand on the web.
