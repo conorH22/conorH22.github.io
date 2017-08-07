@@ -8,4 +8,4 @@ Recent graduate that studied BSc. In Computing with Knowledge of programming, Op
 
 ### Contact me
 
-[cpholmeswork@gmail.com](mailto:cpholmeswork@gmail.com)
+[conorholmesdev@gmail.com](mailto:cpholmeswork@gmail.com)
