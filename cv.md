@@ -3,17 +3,17 @@ layout: page
 title:  My Cv
 permalink: /cv/
 ---
-# Conor Holmes
+## Conor Holmes
 Newport,
 Tipperary, Ireland
 
 +353 86 2096128
 
-[My Email](cpholmeswork@gmail.com).
+[My Email](conorholmesdev@gmail.com).
 
 [Github Account](https://github.com/conorH22).
 
-you can download My[CV]({{ site.url }}/pdf/Conor Holmes_CV.pdf) Here as PDF.
+you can download My[ CV ]({{ site.url }}/pdf/Conor Holmes_CV.pdf) Here as PDF.
 
 ## Employment
 
@@ -69,6 +69,7 @@ projects.
 ## Interests and Achievements
 
 - Participant of various game jams and hackathons.
+- Participant of Irish Collegiate Programming Contest 2016
 - Active member of LIT Tipperary's Technology and Computer and Video Game Society.
 - Event volunteer at Games Fleadh 2013-2017.
 - Learning about new software development and IT concepts.
@@ -77,4 +78,4 @@ projects.
 
 ### Contact me
 
-[cpholmeswork@gmail.com](mailto:cpholmeswork@gmail.com)
+[conorholmesdev@gmail.com](mailto:conorholmesdev@gmail.com)
