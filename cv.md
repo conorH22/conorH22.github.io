@@ -13,7 +13,7 @@ Tipperary, Ireland
 
 [Github Account](https://github.com/conorH22).
 
-you can download My[ CV ]({{ site.url }}/pdf/Conor Holmes_CV.pdf) Here as PDF.
+you can download My[ CV ]({{ site.url }}/pdf/Conor Holmes CV.pdf) Here as PDF.
 
 ## Employment
 
