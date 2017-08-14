@@ -5,7 +5,7 @@ permalink: /portfolio/
 ---
 Please find links to Github account, project code repositories and videos.
 
-My Github account: [My Github page Link](https://github.com/conorH22?tab=repositories).
+My Github account: [My Github page](https://github.com/conorH22?tab=repositories).
 
 
 Google play developer account:
@@ -20,7 +20,7 @@ The 2d application  uses cocos2d network httprequest to call wunderground api. R
 
 The 3d application  uses cocos2d network httprequest to call wunderground api. LitJson parse json data to string and the string searches for the weather effect type and the relevant weather scene is rendered and the demo of The Lost sheep game demo can be played.
 
-Link to real time weather app code:[Link](https://github.com/conorH22/WeatherEffectsLibrary)
+Link to real time weather app :[code](https://github.com/conorH22/WeatherEffectsLibrary)
 
 ## Attack of Ozones 
 
@@ -28,11 +28,11 @@ Developed with cocos2d-x (c++). 2D cross platform game on windows desktop and
 Android. The Game is inspired by Star wars. Multi level space race game. Destroy
 multiple type of enemies. Worked with android Sdks
 
- Github code:[ Code link](https://github.com/conorH22/AttackOfOzones).
+ Project:[ Code ](https://github.com/conorH22/AttackOfOzones).
  
 Gameplay video:
 
-[![ Video Link](https://img.youtube.com/vi/Djm9nXD8jtU/0.jpg)](https://youtu.be/Djm9nXD8jtU)
+[![ Attack of Ozones gameplay](https://img.youtube.com/vi/Djm9nXD8jtU/0.jpg)](https://youtu.be/Djm9nXD8jtU)
 
 
 
@@ -45,14 +45,14 @@ Gameplay video:
 sheep.The object of the game  is to find and collect five missing sheep within the time limit
 of five mins.
 
-Code:
-[link](https://github.com/conorH22/TheLostSheep).
+Project:
+[code](https://github.com/conorH22/TheLostSheep).
 
-Release package: [release package link](https://github.com/conorH22/TheLostSheep/releases).
+Release package: [release package](https://github.com/conorH22/TheLostSheep/releases).
 
 Game play video: 
 
- [![Link](https://img.youtube.com/vi/NbZIqZB2WwY/0.jpg)](https://youtu.be/NbZIqZB2WwY)
+ [![The lost sheep video](https://img.youtube.com/vi/NbZIqZB2WwY/0.jpg)](https://youtu.be/NbZIqZB2WwY)
  
  <a href='https://play.google.com/store/apps/details?id=com.Company.ConorHolmes&hl=en&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>  
 
@@ -62,15 +62,15 @@ Game play video: 
 2017(all Ireland game developers competition ) theme was racing.The objective of
 the game is to race against other drivers and finish first.  
 
-Code :[code Link](https://github.com/conorH22/2Fast2Unity)
+Project :[code](https://github.com/conorH22/2Fast2Unity)
 
 Release :[Release Package]( https://github.com/conorH22/2Fast2Unity/releases)
 
 
 ## Endless night
 Developed in a team of 4 for third year group project,  2D tower defense game called Endless night.The game was developed using cocos2d-x, visual studio, mySQL, scrum and c++. Sucessfully entered into game studio ireland at Games fleadh 2016
-Link:  [site info](http://gamesfleadh.ie/)
-Code :  [github code](https://github.com/conorH22/The-gits-game-folder).
+:  [site info](http://gamesfleadh.ie/)
+project :  [ code](https://github.com/conorH22/The-gits-game-folder).
 
 ## Exire 
 
@@ -79,13 +79,13 @@ collect all the blood artifacts to release your brother from the demons grasp. Y
 must then answer a question on the Ouija board. Did you collect all the Artifacts or
 not by selecting Yes or No. Developed during Global games jam 2016
 
-Project Link: [game info](http://globalgamejam.org/2016/games/exire)
+Project: [game info](http://globalgamejam.org/2016/games/exire)
 
 Google Drive:  [download game files](https://drive.google.com/drive/folders/0B_ZRvr3eu9HxeHBNVEFtQlhoeDg)
 
 Gameplay video:
 
-[![Link](https://img.youtube.com/vi/4vTgKr4L2tA/0.jpg)](https://youtu.be/4vTgKr4L2tA)
+[![ Exire Gameplay video](https://img.youtube.com/vi/4vTgKr4L2tA/0.jpg)](https://youtu.be/4vTgKr4L2tA)
 
 
 
