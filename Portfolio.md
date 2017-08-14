@@ -16,9 +16,9 @@ Google play developer account:
 
 Developed a real time weather application in 2D in cocos2d-x and 3D application in Unity for my fourth year project.
 The purpose of the project was to parse weather data from wunderground api.
-The 2d application  uses cocos2d network httprequest to call wunderground api. RapidJson parses json data to string and the string searches for the weather effect type, depending on the time of day, a day/night relvant weather scene is rendered and the demo of Attack of ozones game demo can be played. 
+The 2d application  uses cocos2d network httprequest to call wunderground api. RapidJson parses json data to string and the string searches for the weather effect type, depending on the time of day, a day/night relevant weather scene is rendered and the demo of Attack of ozones game demo can be played. 
 
-The 3d application  uses cocos2d network httprequest to call wunderground api. LitJson parse json data to string and the string searches for the weather effect type and the relvant weather scene is rendered and the demo of The Lost sheep game demo can be played.
+The 3d application  uses cocos2d network httprequest to call wunderground api. LitJson parse json data to string and the string searches for the weather effect type and the relevant weather scene is rendered and the demo of The Lost sheep game demo can be played.
 
 Link to real time weather app code:[Link](https://github.com/conorH22/WeatherEffectsLibrary)
 
