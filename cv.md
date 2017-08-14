@@ -11,9 +11,9 @@ Tipperary, Ireland
 
 [My Email](conorholmesdev@gmail.com).
 
-[Github Account](https://github.com/conorH22).
+[My Github Account](https://github.com/conorH22).
 
-you can download My[ CV ]({{ site.url }}/pdf/Conor Holmes CV.pdf) Here as PDF.
+you can [ download CV ]({{ site.url }}/pdf/Conor Holmes CV.pdf)as PDF.
 
 ## Employment
 
@@ -25,7 +25,7 @@ you can download My[ CV ]({{ site.url }}/pdf/Conor Holmes CV.pdf) Here as PDF.
 - Dealing with the Client with weekly meetings and communication between the web
 hosting service.
 
-[Website link](http://johnnywalshfloorcoverings.ie/).
+[ work experience website](http://johnnywalshfloorcoverings.ie/).
 
 ## Education
 ##### Limerick Institution of Technology | 2012 – 2017 | B.Sc. (Hons.) in Computing | 2.1 
