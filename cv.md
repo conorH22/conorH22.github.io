@@ -6,8 +6,6 @@ permalink: /cv/
 ### Conor Holmes
 Tipperary, Ireland
 
-+353 86 2096128
-
 [My Linkedin](https://www.linkedin.com/in/conor-holmes-78a36580/)
 
 [My Email](conorholmesdev@gmail.com).
