@@ -35,10 +35,10 @@ Successfully completed a B.Sc. (Hons). in Computing achieving a Second-Class hon
 
 ## Projects
 
--Real-time Weather Application: developed a Real Time Weather system application in Cocos2d-x(C++) and Unity3D(C#), using Json data parsed from Wunderground Api. 
--Shopping cart system: developed a Java shopping cart that applies special offers and calculates total cost and tax. Tools used Java 8, JUnit, Eclipse and Git.
--PhoneBook Application: developed a phonebook application. Tools used Java 8, Spring, Maven, Eclipse and Git.
--Personal website : developed a responsive website to show my project work and personal blog. The website was developed using Html, Css, and Jekyll.
+- Real-time Weather Application: developed a Real Time Weather system application in Cocos2d-x(C++) and Unity3D(C#), using Json data parsed from Wunderground Api. 
+- Shopping cart system: developed a Java shopping cart that applies special offers and calculates total cost and tax. Tools used Java 8, JUnit, Eclipse and Git.
+- PhoneBook Application: developed a phonebook application. Tools used Java 8, Spring, Maven, Eclipse and Git.
+- Personal website : developed a responsive website to show my project work and personal blog. The website was developed using Html, Css, and Jekyll.
 
 ### Relevant subjects include:
 
@@ -49,23 +49,23 @@ Advanced OO Programming,  Systems Analysis and Design, Computing Architecture, D
 
 ## Skills and Certification
 
--Knowledge of Java, C++.
--Experienced with Google Analytics.
--Knowledge of  HTML , CSS, React, Angular and Javascript.
--Completed two Lynda courses in Git and Project Management.
--Excellent communication and presentation skills developed through major work and college based projects. 
--A large amount of team based project work in my employment together with college projects.
+- Knowledge of Java, C++.
+- Experienced with Google Analytics.
+- Knowledge of  HTML , CSS, React, Angular and Javascript.
+- Completed two Lynda courses in Git and Project Management.
+- Excellent communication and presentation skills developed through major work and college based projects. 
+- A large amount of team based project work in my employment together with college projects.
 
 
 ## Interests and Achievements
 
--Participant of various game jams and hackathons.
--Two popular Apps on the Google Play store.
--Active member of LIT Tipperary's Technology, Computer and Video Game Society.
--Event volunteer at Games Fleadh 2013-2017. 
--Learning about new software development and IT concepts.
--German: limited working proficiency.
--Interested in Swimming.
+- Participant of various game jams and hackathons.
+- Two popular Apps on the Google Play store.
+- Active member of LIT Tipperary's Technology, Computer and Video Game Society.
+- Event volunteer at Games Fleadh 2013-2017. 
+- Learning about new software development and IT concepts.
+- German: limited working proficiency.
+- Interested in Swimming.
 
 
 
