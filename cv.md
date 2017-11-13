@@ -9,6 +9,7 @@ Tipperary, Ireland
 +353 86 2096128
 
 [My Linkedin](https://www.linkedin.com/in/conor-holmes-78a36580/)
+
 [My Email](conorholmesdev@gmail.com).
 
 [My Github Account](https://github.com/conorH22).
