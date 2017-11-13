@@ -203,7 +203,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: $darkgray;
   font-size: 16px;
 
   @include mobile {
@@ -233,7 +233,7 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $gray;
+      color: $darkgray;
     }
   }
 }
