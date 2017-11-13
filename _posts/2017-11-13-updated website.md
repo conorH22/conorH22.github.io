@@ -1,6 +1,6 @@
 ---
 layout: post
-title: further updates to website
+title: Further updates to website
 date:   2017-11-13 
 categories: site update
 ---
