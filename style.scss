@@ -152,13 +152,13 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
-	 background: $blue;
+	 background: $lightBlue;
 }
 
 .masthead {
   padding: 20px 0;
   border-bottom: 1px solid $lightBlue;
-
+	
   @include mobile {
     text-align: center;
   }
@@ -276,7 +276,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-   background: $blue;
+   background: $lightBlue;
 }
 
 footer {
