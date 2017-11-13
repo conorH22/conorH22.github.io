@@ -93,5 +93,5 @@ Gameplay video:
 
 ### Contact me
 
-[cpholmeswork@gmail.com](mailto:cpholmeswork@gmail.com)
+[My Email](mailto:conorholmesdev@gmail.com)
 
