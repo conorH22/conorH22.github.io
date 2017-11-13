@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $lightGray;
+  background: $lightGray;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -152,7 +152,7 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
-	background: $gray;
+	color: $gray;
 }
 
 .masthead {
@@ -276,7 +276,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background: $gray;
+  color: $gray;
 }
 
 footer {
