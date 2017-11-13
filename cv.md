@@ -3,7 +3,7 @@ layout: page
 title:  My Cv
 permalink: /cv/
 ---
-## Conor Holmes
+### Conor Holmes
 Tipperary, Ireland
 
 +353 86 2096128
@@ -16,7 +16,7 @@ Tipperary, Ireland
 
 you can [ download CV ]({{ site.url }}/pdf/Conor Holmes CV.pdf)as PDF.
 
-## Employment
+### Employment
 
 ##### May 2016 - September 2016 | Johnny Walsh Floor Coverings| | Full stack Web Developer 
 
@@ -28,27 +28,27 @@ hosting service.
 
 [ work experience website](http://johnnywalshfloorcoverings.ie/).
 
-## Education
+### Education
 ##### Limerick Institution of Technology | 2012 – 2017 | B.Sc. (Hons.) in Computing | 2.1 
 
 Successfully completed a B.Sc. (Hons). in Computing achieving a Second-Class honours degree. The course had a focus on software design and development which allowed me to follow my passion in this area whist also building technical projects highly relevant in commercial and enterprise applications. This course allowed me to significantly develop my technical skills whilst also improving my teamwork and leadership skills through many team based projects.
 
 
-## Projects
+### Projects
 
 - Real-time Weather Application: developed a Real Time Weather system application in Cocos2d-x(C++) and Unity3D(C#), using Json data parsed from Wunderground Api. 
 - Shopping cart system: developed a Java shopping cart that applies special offers and calculates total cost and tax. Tools used Java 8, JUnit, Eclipse and Git.
 - PhoneBook Application: developed a phonebook application. Tools used Java 8, Spring, Maven, Eclipse and Git.
 - Personal website : developed a responsive website to show my project work and personal blog. The website was developed using Html, Css, and Jekyll.
 
-### Relevant subjects include:
+#### Relevant subjects include:
 
 Advanced OO Programming,  Systems Analysis and Design, Computing Architecture, Database Systems,Software Security and Testing, Enterprise Application Development, Web development, Data Structures, Algorithms, Concurrent Programming, Network Programming.
 
 
 ##### 2007 – 2012 | St. Mary’s Secondary School, Newport | Leaving Certificate
 
-## Skills and Certification
+### Skills and Certification
 
 - Knowledge of Java, C++.
 - Experienced with Google Analytics.
@@ -58,7 +58,7 @@ Advanced OO Programming,  Systems Analysis and Design, Computing Architecture, D
 - A large amount of team based project work in my employment together with college projects.
 
 
-## Interests and Achievements
+### Interests and Achievements
 
 - Participant of various game jams and hackathons.
 - Two popular Apps on the Google Play store.
@@ -70,6 +70,6 @@ Advanced OO Programming,  Systems Analysis and Design, Computing Architecture, D
 
 
 
-### Contact me
+#### Contact me
 
 [My Email](mailto:conorholmesdev@gmail.com)
