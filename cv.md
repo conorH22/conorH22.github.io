@@ -27,9 +27,9 @@ hosting service.
 [ work experience website](http://johnnywalshfloorcoverings.ie/).
 
 ### Education
-##### Limerick Institution of Technology | 2012 – 2017 | B.Sc. (Hons.) in Computing | 2.1 
+##### Limerick Institution of Technology | 2012 – 2017 | B.Sc. (Hons.) in Games Design & Development | 2.1 
 
-Successfully completed a B.Sc. (Hons). in Computing achieving a Second-Class honours degree. The course had a focus on software design and development which allowed me to follow my passion in this area whist also building technical projects highly relevant in commercial and enterprise applications. This course allowed me to significantly develop my technical skills whilst also improving my teamwork and leadership skills through many team based projects.
+Successfully completed a BSc.(Hons.)Games Design & Development in achieving a Second-Class honours degree. The course had a focus on games design and development which allowed me to follow my passion in this area whist also building technical projects highly relevant in commercial and enterprise applications. This course allowed me to significantly develop my technical skills whilst also improving my teamwork and leadership skills through many team based projects.
 
 
 ### Projects
