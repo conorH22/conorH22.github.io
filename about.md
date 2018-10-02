@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Recent graduate that studied BSc. (Hons) Games Design and Development with a keen interest in game development. Good knowledge of Unity 3D, HTML, CSS. Successfully launched two games on the Google play store.
+MSc. in Software Engineering student. Good knowledge of Java, Javascript and Angular. Successfully launched multiple applications on the Google play store.
 
 ### Contact me
 
