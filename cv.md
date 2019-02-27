@@ -17,17 +17,17 @@ you can [ download CV ]({{ site.url }}/pdf/Conor Holmes CV.pdf)as PDF.
 ### Employment
 
 ##### March 2018 - September 2018 | Freelance Web developer
-- Developed e-commerce website using Scrivito and Snipcart.
-- Developed a website using TYPO3. 
-- Developed a website with google Adsence and Wordpress.
-- Dealing with several clients with regular meetings
+- Developed e-commerce websites using Scrivito and Snipcart.
+- Developed several websites using TYPO3. 
+- Developed websites with google Adsence and Wordpress.
+- Dealing with several clients
 
 
 
 ##### May 2016 - September 2016 | Johnny Walsh Floor Coverings| | Full stack Web Developer 
 
 - Worked as Web developer for Johnny Walsh Floor Coverings Ltd.
-- Developed a company website to promote the company brand on the web.
+- Developed company website to promote the company brand on the web.
 - Developed technical and soft Skills (JavaScript, PHP, Html and CSS).
 - Dealing with the Client with weekly meetings and communication between the web
 hosting service.
@@ -69,7 +69,7 @@ Advanced OO Programming,  Systems Analysis and Design, Computing Architecture, D
 - Two popular Apps on the Google Play store.
 - Member of Limerick AI, UL Swimming club and UL Outdoor Pursuits Club  .
 - Event volunteer at Games Fleadh 2013-2017. 
-- Learning about new software development and IT concepts.
+- 121 tutor and Buddy program mentor.
 - German: limited working proficiency.
 
 
