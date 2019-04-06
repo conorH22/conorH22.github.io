@@ -42,34 +42,37 @@ hosting service.
 
 
 ### Projects
+- CleanMachine: Java application developed in Spring boot.Using a PostgreSQL database,Travis CI, CodeCov and CodeClimate. Deployed on Heroku.
+- Bike Rental: Java application developed in Spring boot.Using a PostgreSQL database,Travis CI, CodeCov and CodeClimate.Deployed on Heroku.
+- Rtime Weather: developed a Real Time Weather system application in Cocos2d-x(C++) and Unity3D(C#), using Json data parsed from Wunderground Api. 
 
-- Real-time Weather Application: developed a Real Time Weather system application in Cocos2d-x(C++) and Unity3D(C#), using Json data parsed from Wunderground Api. 
-- Shopping cart system: developed a Java shopping cart that applies special offers and calculates total cost and tax. Tools used Java 8, JUnit, Eclipse and Git.
-- PhoneBook Application: developed a phonebook application. Tools used Java 8, Spring, Maven, Eclipse and Git.
-- Client Management Application: developed a client management system with authentication and data storing on the Firestore platform. Tools used Angular, Firebase, Firestore and Bootstrap 4.
+
+
 
 #### Relevant subjects include:
+Software Architecture, Software Design,  Concurrency & Parallelism in Software Development, Human-Computer Interaction, Software Quality and Software Requirements. 
 
-Advanced OO Programming,  Systems Analysis and Design, Computing Architecture, Database Systems, Software Security and Testing, Enterprise Application Development, Web development, Data Structures, Algorithms, Concurrent Programming, Network Programming.
+
 
 
 ##### 2007 – 2012 | St. Mary’s Secondary School, Newport | Leaving Certificate
 
 ### Skills and Certification
 
-- Knowledge of Java, Javascript and Angular.
-- Completed Multiple online courses in Git, Project Management, Angular and Javascript.
-- Completed a workshop in R.
+-Knowledge of Java, Javascript and Angular. 
+- Completed Multiple online courses in Git, Project Management, Angular and Javascript. 
+- Volunteered over 20 hours for 121 tech and Buddy programme. 
 - Excellent communication and presentation skills developed through major work and college based projects. 
-- A large amount of team based project work in my employment together with college projects.
+- Bronze Prize - President’s Volunteer Award 
+
 
 
 ### Interests and Achievements
 
-- Two popular Apps on the Google Play store.
-- Member of Limerick AI, UL Swimming club and UL Outdoor Pursuits Club  .
-- Event volunteer at Games Fleadh 2013-2017. 
-- 121 tutor and Buddy program mentor.
+- Two popular Apps on the Google Play store. 
+- Member of Limerick AI and UL Outdoor Pursuits Club. 
+- Presented dissertation at Blockchain Interest group. 
+- Learning about new software development and IT concepts. 
 - German: limited working proficiency.
 
 
